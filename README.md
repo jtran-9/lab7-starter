@@ -1,5 +1,5 @@
 # Lab 7 - Starter
 
-Lab Group:
-Justin Tran
+Lab Group: <br>
+Justin Tran <br>
 Anthony Chapov
