@@ -92,7 +92,7 @@ function initFormHandler() {
 		const mainElement = document.querySelector('main');
 		mainElement.appendChild(recipeCardElement);
 
-		let recipesArr = JSON.parse(localStorage.getItem('recipes'));
+		let recipesArr = JSON.parse(localStorage.getItem('recipes')) || [];
 		recipesArr.push(recipeObj);
 		saveRecipesToStorage(recipesArr);
 	});
