@@ -1,5 +1,8 @@
 # Lab 7 - Starter
 
-Lab Group: <br>
+[Recipe Website](https://jtran-9.github.io/lab7-starter/)
+
+**Lab Group:** <br>
 Justin Tran <br>
-Anthony Chapov
+Anthony Chapov <br>
+David Wang
